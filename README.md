@@ -1,9 +1,18 @@
-# Battery Trade & Innovation Flows: France’s Global Value Chain in Green Tech
+# Battery-trade-analysis
+Python analysis of France-Asia battery trade with interactive visualizations. Showcases trade flows, enterprise size, and trends for macro and industrial insights.
+This repository demonstrates Python skills applied to international trade data.
 
-# Goal
-Show how France trades in lithium batteries with key Asian partners, linking it to innovation inputs (e.g., R&D or technology imports).
+# Focus
+France battery trade with key Asian partners
 
-# Python for
-- Import and clean trade and innovation data
-- Visualize trends
-- Derive insights on how innovation and trade intertwine
+# Data
+Eurostat TEC and trade datasets
+
+# Analysis
+By partner, flow (import/export), enterprise size
+
+# Visualization
+Interactive charts with Plotly
+
+# Purpose: 
+Showcase analytical capabilities and explore implications for industrial innovation and inclusive city development.
