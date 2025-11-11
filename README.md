@@ -6,7 +6,7 @@ This repository demonstrates Python skills applied to international trade data.
 France battery trade with key Asian partners
 
 # Data
-Eurostat TEC and trade datasets
+Eurostat investments and trade datasets
 
 # Analysis
 By partner, flow (import/export), enterprise size
