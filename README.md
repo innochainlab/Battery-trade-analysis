@@ -1,5 +1,5 @@
 # Battery-trade-analysis
-Python analysis of France-Asia battery trade with interactive visualizations. Showcases trade flows, enterprise size, and trends for macro and industrial insights.
+Python analysis of France-Asia battery trade with interactive visualizations. Showcases trade flows, investments in innovation, and trends for macro and industrial insights.
 This repository demonstrates Python skills applied to international trade data.
 
 # Focus
